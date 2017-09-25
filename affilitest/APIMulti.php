@@ -1,8 +1,5 @@
 <?php
-
-namespace AffiliTest;
-
-require_once 'vendor/autoload.php';
+namespace Myorb\AffiliTest;
 
 use CurlX;
 

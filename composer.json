@@ -1,5 +1,24 @@
 {
+    "name": "myorb/onboardiq",
+    "description": "AffiliTest-PHP api wrapper",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Shalaiev",
+            "email": "itdep24@gmail.com"
+        }
+    ],
     "require": {
         "half2me/curlx": "^1.0"
+    },
+    "require-dev": {
+        "ext-curl": "*",
+        "phpunit/phpunit": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Myorb\\AffiliTest-PHP\\": "affilitest/"
+        }
     }
 }
