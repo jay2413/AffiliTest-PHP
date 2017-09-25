@@ -1,5 +1,5 @@
 {
-    "name": "myorb/AffiliTest",
+    "name": "myorb/affilitest-php",
     "description": "AffiliTest-PHP api wrapper",
     "minimum-stability": "stable",
     "license": "MIT",
